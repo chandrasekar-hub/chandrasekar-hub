@@ -5,7 +5,7 @@ Full-stack developer with hands-on experience building real-world applications a
 ## 🛠️ Tech Stack
 
 **Frontend / Mobile**
-- React Native
+- React.js
 - JavaScript
 - Expo
 - Responsive UI design

@@ -1,3 +1,6 @@
+<p align="center">
+ <img src="./Build%2C%20Learn%2C%20Grow_%20Night%20Coding%20Landscape.png" width="100%" alt="My GitHub Banner">
+</p>
 # Hi, I'm Chandrasekar H 👋
 
 Full-stack developer with hands-on experience building real-world applications across mobile and backend development. I enjoy creating user-friendly interfaces and reliable APIs that work together efficiently.

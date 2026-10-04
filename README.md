@@ -7,7 +7,7 @@ Full-stack developer with hands-on experience building real-world applications a
 
 ## 🛠️ Tech Stack
 
-**Frontend / Mobile**
+**Frontend**
 - React.js
 - JavaScript
 - Expo
